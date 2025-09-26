@@ -13,6 +13,8 @@ class _MainState extends ConsumerState<Main> {
   final images = [
     "assets/images/bg2.jpg",
     "assets/images/bg3.jpg",
+    "assets/images/bg2.jpg",
+    "assets/images/bg2.jpg",
     "assets/images/bg2.jpg"
   ];
 
