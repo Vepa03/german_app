@@ -1,0 +1,1785 @@
+[
+  {
+    "id": "1",
+    "category": "Akkusative",
+    "question_number": "20",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Wen siehst du?",
+        "options": [
+          { "id": "a", "text": "Ich sehe der Lehrer." },
+          { "id": "b", "text": "Ich sehe den Lehrer." },
+          { "id": "c", "text": "Ich sehe dem Lehrer." },
+          { "id": "d", "text": "Ich sehe die Lehrer." }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "2",
+        "question": "Was kaufst du im Supermarkt?",
+        "options": [
+          { "id": "a", "text": "Ich kaufe ein Brot." },
+          { "id": "b", "text": "Ich kaufe eine Tisch." },
+          { "id": "c", "text": "Ich kaufe einem Brot." },
+          { "id": "d", "text": "Ich kaufe einer Brot." }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "3",
+        "question": "Er isst ... Apfel.",
+        "options": [
+          { "id": "a", "text": "den" },
+          { "id": "b", "text": "der" },
+          { "id": "c", "text": "dem" },
+          { "id": "d", "text": "des" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "4",
+        "question": "Wir trinken ... Wasser.",
+        "options": [
+          { "id": "a", "text": "die" },
+          { "id": "b", "text": "das" },
+          { "id": "c", "text": "den" },
+          { "id": "d", "text": "dem" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "5",
+        "question": "Ich brauche ... Stift.",
+        "options": [
+          { "id": "a", "text": "den" },
+          { "id": "b", "text": "dem" },
+          { "id": "c", "text": "der" },
+          { "id": "d", "text": "des" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "6",
+        "question": "Wir haben ... Auto.",
+        "options": [
+          { "id": "a", "text": "die" },
+          { "id": "b", "text": "den" },
+          { "id": "c", "text": "das" },
+          { "id": "d", "text": "dem" }
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": "7",
+        "question": "Siehst du ... Frau?",
+        "options": [
+          { "id": "a", "text": "den" },
+          { "id": "b", "text": "die" },
+          { "id": "c", "text": "das" },
+          { "id": "d", "text": "dem" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "8",
+        "question": "Ich habe ... Hund.",
+        "options": [
+          { "id": "a", "text": "den" },
+          { "id": "b", "text": "der" },
+          { "id": "c", "text": "dem" },
+          { "id": "d", "text": "des" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "9",
+        "question": "Wir machen ... Hausaufgaben.",
+        "options": [
+          { "id": "a", "text": "die" },
+          { "id": "b", "text": "den" },
+          { "id": "c", "text": "das" },
+          { "id": "d", "text": "dem" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "10",
+        "question": "Er liest ... Buch.",
+        "options": [
+          { "id": "a", "text": "den" },
+          { "id": "b", "text": "das" },
+          { "id": "c", "text": "dem" },
+          { "id": "d", "text": "des" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "11",
+        "question": "Wir brauchen ... Tisch.",
+        "options": [
+          { "id": "a", "text": "den" },
+          { "id": "b", "text": "der" },
+          { "id": "c", "text": "dem" },
+          { "id": "d", "text": "des" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "12",
+        "question": "Sie hat ... Tasche.",
+        "options": [
+          { "id": "a", "text": "die" },
+          { "id": "b", "text": "der" },
+          { "id": "c", "text": "den" },
+          { "id": "d", "text": "dem" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "13",
+        "question": "Ich möchte ... Kaffee.",
+        "options": [
+          { "id": "a", "text": "der" },
+          { "id": "b", "text": "den" },
+          { "id": "c", "text": "dem" },
+          { "id": "d", "text": "das" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "14",
+        "question": "Siehst du ... Kinder?",
+        "options": [
+          { "id": "a", "text": "der" },
+          { "id": "b", "text": "die" },
+          { "id": "c", "text": "den" },
+          { "id": "d", "text": "das" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "15",
+        "question": "Er sucht ... Schlüssel.",
+        "options": [
+          { "id": "a", "text": "den" },
+          { "id": "b", "text": "das" },
+          { "id": "c", "text": "die" },
+          { "id": "d", "text": "dem" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "16",
+        "question": "Wir essen ... Pizza.",
+        "options": [
+          { "id": "a", "text": "den" },
+          { "id": "b", "text": "die" },
+          { "id": "c", "text": "das" },
+          { "id": "d", "text": "dem" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "17",
+        "question": "Siehst du ... Film?",
+        "options": [
+          { "id": "a", "text": "den" },
+          { "id": "b", "text": "die" },
+          { "id": "c", "text": "das" },
+          { "id": "d", "text": "dem" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "18",
+        "question": "Ich habe ... Lampe.",
+        "options": [
+          { "id": "a", "text": "die" },
+          { "id": "b", "text": "den" },
+          { "id": "c", "text": "dem" },
+          { "id": "d", "text": "das" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "19",
+        "question": "Wir brauchen ... Milch.",
+        "options": [
+          { "id": "a", "text": "die" },
+          { "id": "b", "text": "den" },
+          { "id": "c", "text": "das" },
+          { "id": "d", "text": "dem" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "20",
+        "question": "Er nimmt ... Zug.",
+        "options": [
+          { "id": "a", "text": "den" },
+          { "id": "b", "text": "die" },
+          { "id": "c", "text": "das" },
+          { "id": "d", "text": "dem" }
+        ],
+        "correct_answer": "a"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "category": "Greetings",
+    "question_number": "20",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Wie sagt man auf Deutsch 'Merhaba'?",
+        "options": [
+          { "id": "a", "text": "Tschüss" },
+          { "id": "b", "text": "Hallo" },
+          { "id": "c", "text": "Danke" },
+          { "id": "d", "text": "Bitte" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "2",
+        "question": "Wie sagt man 'Günaydın'?",
+        "options": [
+          { "id": "a", "text": "Guten Morgen" },
+          { "id": "b", "text": "Guten Abend" },
+          { "id": "c", "text": "Hallo" },
+          { "id": "d", "text": "Tschüss" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "3",
+        "question": "Wie sagt man 'İyi akşamlar'?",
+        "options": [
+          { "id": "a", "text": "Guten Abend" },
+          { "id": "b", "text": "Gute Nacht" },
+          { "id": "c", "text": "Guten Tag" },
+          { "id": "d", "text": "Hallo" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "4",
+        "question": "Wie sagt man 'İyi geceler'?",
+        "options": [
+          { "id": "a", "text": "Guten Tag" },
+          { "id": "b", "text": "Guten Morgen" },
+          { "id": "c", "text": "Gute Nacht" },
+          { "id": "d", "text": "Hallo" }
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": "5",
+        "question": "Welche Begrüßung passt am Telefon?",
+        "options": [
+          { "id": "a", "text": "Hallo" },
+          { "id": "b", "text": "Tschüss" },
+          { "id": "c", "text": "Bitte" },
+          { "id": "d", "text": "Danke" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "6",
+        "question": "Wie sagt man höflich 'Selam, gününüz iyi olsun'?",
+        "options": [
+          { "id": "a", "text": "Guten Tag" },
+          { "id": "b", "text": "Hallo" },
+          { "id": "c", "text": "Gute Nacht" },
+          { "id": "d", "text": "Tschüss" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "7",
+        "question": "Was sagt man morgens im Büro?",
+        "options": [
+          { "id": "a", "text": "Guten Morgen" },
+          { "id": "b", "text": "Guten Abend" },
+          { "id": "c", "text": "Hallo" },
+          { "id": "d", "text": "Danke" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "8",
+        "question": "Was sagt man abends beim Treffen?",
+        "options": [
+          { "id": "a", "text": "Guten Abend" },
+          { "id": "b", "text": "Gute Nacht" },
+          { "id": "c", "text": "Guten Tag" },
+          { "id": "d", "text": "Hallo" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "9",
+        "question": "Welche Antwort passt? – Hallo!",
+        "options": [
+          { "id": "a", "text": "Hallo!" },
+          { "id": "b", "text": "Tschüss!" },
+          { "id": "c", "text": "Danke!" },
+          { "id": "d", "text": "Bitte!" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "10",
+        "question": "Welche Antwort passt? – Guten Morgen!",
+        "options": [
+          { "id": "a", "text": "Guten Abend!" },
+          { "id": "b", "text": "Guten Morgen!" },
+          { "id": "c", "text": "Hallo!" },
+          { "id": "d", "text": "Tschüss!" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "11",
+        "question": "Wie verabschiedet man sich auf Deutsch?",
+        "options": [
+          { "id": "a", "text": "Hallo" },
+          { "id": "b", "text": "Tschüss" },
+          { "id": "c", "text": "Guten Tag" },
+          { "id": "d", "text": "Guten Abend" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "12",
+        "question": "Wie sagt man höflich 'Görüşürüz'?",
+        "options": [
+          { "id": "a", "text": "Auf Wiedersehen" },
+          { "id": "b", "text": "Hallo" },
+          { "id": "c", "text": "Tschüss" },
+          { "id": "d", "text": "Danke" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "13",
+        "question": "Wie sagt man 'Selam gençler' (samimi)?",
+        "options": [
+          { "id": "a", "text": "Hallo Leute!" },
+          { "id": "b", "text": "Guten Tag" },
+          { "id": "c", "text": "Auf Wiedersehen" },
+          { "id": "d", "text": "Bitte schön" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "14",
+        "question": "Welche Begrüßung ist formell?",
+        "options": [
+          { "id": "a", "text": "Hi!" },
+          { "id": "b", "text": "Guten Tag" },
+          { "id": "c", "text": "Hallo!" },
+          { "id": "d", "text": "Ciao!" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "15",
+        "question": "Welche Begrüßung ist informell?",
+        "options": [
+          { "id": "a", "text": "Guten Tag" },
+          { "id": "b", "text": "Guten Abend" },
+          { "id": "c", "text": "Hi!" },
+          { "id": "d", "text": "Auf Wiedersehen" }
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": "16",
+        "question": "Welche Antwort passt? – Guten Abend!",
+        "options": [
+          { "id": "a", "text": "Guten Abend!" },
+          { "id": "b", "text": "Gute Nacht!" },
+          { "id": "c", "text": "Hallo!" },
+          { "id": "d", "text": "Danke!" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "17",
+        "question": "Welche Antwort passt? – Auf Wiedersehen!",
+        "options": [
+          { "id": "a", "text": "Hallo!" },
+          { "id": "b", "text": "Auf Wiedersehen!" },
+          { "id": "c", "text": "Danke!" },
+          { "id": "d", "text": "Bitte!" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "18",
+        "question": "Wie sagt man 'Bye' auf Deutsch (samimi)?",
+        "options": [
+          { "id": "a", "text": "Hallo" },
+          { "id": "b", "text": "Ciao" },
+          { "id": "c", "text": "Guten Tag" },
+          { "id": "d", "text": "Bitte" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "19",
+        "question": "Welche Begrüßung sagt man am Mittag?",
+        "options": [
+          { "id": "a", "text": "Guten Morgen" },
+          { "id": "b", "text": "Guten Tag" },
+          { "id": "c", "text": "Guten Abend" },
+          { "id": "d", "text": "Gute Nacht" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "20",
+        "question": "Welche Antwort passt? – Gute Nacht!",
+        "options": [
+          { "id": "a", "text": "Hallo!" },
+          { "id": "b", "text": "Gute Nacht!" },
+          { "id": "c", "text": "Guten Morgen!" },
+          { "id": "d", "text": "Tschüss!" }
+        ],
+        "correct_answer": "b"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "category": "Family",
+    "question_number": "10",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Wie sagt man auf Deutsch 'eje'?",
+        "options": [
+          { "id": "a", "text": "Mutter" },
+          { "id": "b", "text": "Vater" },
+          { "id": "c", "text": "Schwester" },
+          { "id": "d", "text": "Bruder" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "2",
+        "question": "Wie sagt man auf Deutsch 'kaka'?",
+        "options": [
+          { "id": "a", "text": "Onkel" },
+          { "id": "b", "text": "Vater" },
+          { "id": "c", "text": "Bruder" },
+          { "id": "d", "text": "Opa" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "3",
+        "question": "Wie sagt man auf Deutsch 'gyz jigi '?",
+        "options": [
+          { "id": "a", "text": "Schwester" },
+          { "id": "b", "text": "Bruder" },
+          { "id": "c", "text": "Cousin" },
+          { "id": "d", "text": "Tante" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "4",
+        "question": "Wie sagt man auf Deutsch 'oglan dogan'?",
+        "options": [
+          { "id": "a", "text": "Onkel" },
+          { "id": "b", "text": "Vater" },
+          { "id": "c", "text": "Bruder" },
+          { "id": "d", "text": "Opa" }
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": "5",
+        "question": "Was bedeutet 'Oma'?",
+        "options": [
+          { "id": "a", "text": "Büyük anne" },
+          { "id": "b", "text": "Büyük baba" },
+          { "id": "c", "text": "Teyze" },
+          { "id": "d", "text": "Kuzen" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "6",
+        "question": "Was bedeutet 'Opa'?",
+        "options": [
+          { "id": "a", "text": "Büyük baba" },
+          { "id": "b", "text": "Büyük anne" },
+          { "id": "c", "text": "Amca" },
+          { "id": "d", "text": "Hala" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "7",
+        "question": "Wie sagt man auf Deutsch 'plan kaka/ dayy'?",
+        "options": [
+          { "id": "a", "text": "Tante" },
+          { "id": "b", "text": "Onkel" },
+          { "id": "c", "text": "Cousin" },
+          { "id": "d", "text": "Bruder" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "8",
+        "question": "Wie sagt man auf Deutsch 'plan eje/ dayza'?",
+        "options": [
+          { "id": "a", "text": "Onkel" },
+          { "id": "b", "text": "Tante" },
+          { "id": "c", "text": "Cousin" },
+          { "id": "d", "text": "Bruder" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "9",
+        "question": "Was bedeutet 'Cousin'?",
+        "options": [
+          { "id": "a", "text": "Kuzen (erkek)" },
+          { "id": "b", "text": "Kuzen (kız)" },
+          { "id": "c", "text": "Kardeş" },
+          { "id": "d", "text": "Yeğen" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "10",
+        "question": "Was bedeutet 'Cousine'?",
+        "options": [
+          { "id": "a", "text": "Kuzen (kız)" },
+          { "id": "b", "text": "Kuzen (erkek)" },
+          { "id": "c", "text": "Anne" },
+          { "id": "d", "text": "Baba" }
+        ],
+        "correct_answer": "a"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "category": "Zeit und Zahlen",
+    "question_number": "10",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Wie spät ist es? (07:00)",
+        "options": [
+          { "id": "a", "text": "Es ist sieben Uhr." },
+          { "id": "b", "text": "Es ist sechs Uhr." },
+          { "id": "c", "text": "Es ist acht Uhr." },
+          { "id": "d", "text": "Es ist neun Uhr." }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "2",
+        "question": "Wie spät ist es? (12:30)",
+        "options": [
+          { "id": "a", "text": "Es ist halb zwölf." },
+          { "id": "b", "text": "Es ist halb eins." },
+          { "id": "c", "text": "Es ist halb zwei." },
+          { "id": "d", "text": "Es ist zwölf Uhr." }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "3",
+        "question": "Wie spät ist es? (21:15)",
+        "options": [
+          { "id": "a", "text": "Es ist Viertel nach neun." },
+          { "id": "b", "text": "Es ist Viertel vor neun." },
+          { "id": "c", "text": "Es ist Viertel nach zehn." },
+          { "id": "d", "text": "Es ist Viertel vor zehn." }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "4",
+        "question": "Wie spät ist es? (18:45)",
+        "options": [
+          { "id": "a", "text": "Es ist Viertel nach sechs." },
+          { "id": "b", "text": "Es ist Viertel vor sieben." },
+          { "id": "c", "text": "Es ist Viertel nach sieben." },
+          { "id": "d", "text": "Es ist Viertel vor sechs." }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "5",
+        "question": "Welche Zahl ist 'eins'?",
+        "options": [
+          { "id": "a", "text": "1" },
+          { "id": "b", "text": "2" },
+          { "id": "c", "text": "3" },
+          { "id": "d", "text": "4" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "6",
+        "question": "Welche Zahl ist 'fünf'?",
+        "options": [
+          { "id": "a", "text": "4" },
+          { "id": "b", "text": "5" },
+          { "id": "c", "text": "6" },
+          { "id": "d", "text": "7" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "7",
+        "question": "Welche Zahl ist 'zehn'?",
+        "options": [
+          { "id": "a", "text": "8" },
+          { "id": "b", "text": "9" },
+          { "id": "c", "text": "10" },
+          { "id": "d", "text": "11" }
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": "8",
+        "question": "Welche Zahl ist 'zwanzig'?",
+        "options": [
+          { "id": "a", "text": "12" },
+          { "id": "b", "text": "20" },
+          { "id": "c", "text": "21" },
+          { "id": "d", "text": "22" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "9",
+        "question": "Welche Zahl ist 'hundert'?",
+        "options": [
+          { "id": "a", "text": "10" },
+          { "id": "b", "text": "100" },
+          { "id": "c", "text": "1000" },
+          { "id": "d", "text": "1" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "10",
+        "question": "Welche Zahl ist 'tausend'?",
+        "options": [
+          { "id": "a", "text": "100" },
+          { "id": "b", "text": "1000" },
+          { "id": "c", "text": "10" },
+          { "id": "d", "text": "1" }
+        ],
+        "correct_answer": "b"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "category": "Präsens – Verbkonjugation",
+    "question_number": "20",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Ich ____ in Berlin.",
+        "options": [
+          { "id": "a", "text": "wohne" },
+          { "id": "b", "text": "wohnst" },
+          { "id": "c", "text": "wohnt" },
+          { "id": "d", "text": "wohnen" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "2",
+        "question": "Du ____ sehr gut Deutsch.",
+        "options": [
+          { "id": "a", "text": "spricht" },
+          { "id": "b", "text": "spreche" },
+          { "id": "c", "text": "sprichst" },
+          { "id": "d", "text": "sprechen" }
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": "3",
+        "question": "Er ____ Fußball.",
+        "options": [
+          { "id": "a", "text": "spielst" },
+          { "id": "b", "text": "spiele" },
+          { "id": "c", "text": "spielen" },
+          { "id": "d", "text": "spielt" }
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": "4",
+        "question": "Wir ____ in die Schule.",
+        "options": [
+          { "id": "a", "text": "gehst" },
+          { "id": "b", "text": "geht" },
+          { "id": "c", "text": "gehen" },
+          { "id": "d", "text": "gehe" }
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": "5",
+        "question": "Ihr ____ Hausaufgaben.",
+        "options": [
+          { "id": "a", "text": "machen" },
+          { "id": "b", "text": "macht" },
+          { "id": "c", "text": "machst" },
+          { "id": "d", "text": "mache" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "6",
+        "question": "Sie (Pl.) ____ in Deutschland.",
+        "options": [
+          { "id": "a", "text": "leben" },
+          { "id": "b", "text": "lebst" },
+          { "id": "c", "text": "lebt" },
+          { "id": "d", "text": "lebe" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "7",
+        "question": "Ich ____ gerne Kaffee.",
+        "options": [
+          { "id": "a", "text": "trinke" },
+          { "id": "b", "text": "trinkst" },
+          { "id": "c", "text": "trinkt" },
+          { "id": "d", "text": "trinken" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "8",
+        "question": "Du ____ jeden Tag Musik.",
+        "options": [
+          { "id": "a", "text": "höre" },
+          { "id": "b", "text": "hört" },
+          { "id": "c", "text": "hörst" },
+          { "id": "d", "text": "hören" }
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": "9",
+        "question": "Er ____ ein Buch.",
+        "options": [
+          { "id": "a", "text": "liest" },
+          { "id": "b", "text": "lesen" },
+          { "id": "c", "text": "liestest" },
+          { "id": "d", "text": "lese" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "10",
+        "question": "Wir ____ Freunde.",
+        "options": [
+          { "id": "a", "text": "sind" },
+          { "id": "b", "text": "seid" },
+          { "id": "c", "text": "bin" },
+          { "id": "d", "text": "ist" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "11",
+        "question": "Ihr ____ müde.",
+        "options": [
+          { "id": "a", "text": "ist" },
+          { "id": "b", "text": "sind" },
+          { "id": "c", "text": "seid" },
+          { "id": "d", "text": "bin" }
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": "12",
+        "question": "Ich ____ Student.",
+        "options": [
+          { "id": "a", "text": "bist" },
+          { "id": "b", "text": "bin" },
+          { "id": "c", "text": "ist" },
+          { "id": "d", "text": "sind" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "13",
+        "question": "Du ____ nach Hause.",
+        "options": [
+          { "id": "a", "text": "gehst" },
+          { "id": "b", "text": "geht" },
+          { "id": "c", "text": "gehe" },
+          { "id": "d", "text": "gehen" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "14",
+        "question": "Er ____ morgen nach Berlin.",
+        "options": [
+          { "id": "a", "text": "fährt" },
+          { "id": "b", "text": "fahre" },
+          { "id": "c", "text": "fahrst" },
+          { "id": "d", "text": "fahren" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "15",
+        "question": "Wir ____ Fußball im Park.",
+        "options": [
+          { "id": "a", "text": "spielst" },
+          { "id": "b", "text": "spiele" },
+          { "id": "c", "text": "spielen" },
+          { "id": "d", "text": "spielt" }
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": "16",
+        "question": "Ihr ____ in Wien.",
+        "options": [
+          { "id": "a", "text": "wohnst" },
+          { "id": "b", "text": "wohnen" },
+          { "id": "c", "text": "wohnt" },
+          { "id": "d", "text": "wohne" }
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": "17",
+        "question": "Ich ____ gern Musik.",
+        "options": [
+          { "id": "a", "text": "höre" },
+          { "id": "b", "text": "hörst" },
+          { "id": "c", "text": "hört" },
+          { "id": "d", "text": "hören" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "18",
+        "question": "Du ____ sehr gut.",
+        "options": [
+          { "id": "a", "text": "arbeitest" },
+          { "id": "b", "text": "arbeitet" },
+          { "id": "c", "text": "arbeite" },
+          { "id": "d", "text": "arbeiten" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "19",
+        "question": "Er ____ heute lange.",
+        "options": [
+          { "id": "a", "text": "schlafe" },
+          { "id": "b", "text": "schläft" },
+          { "id": "c", "text": "schlafen" },
+          { "id": "d", "text": "schläfst" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "20",
+        "question": "Wir ____ eine Pizza.",
+        "options": [
+          { "id": "a", "text": "esse" },
+          { "id": "b", "text": "isst" },
+          { "id": "c", "text": "essen" },
+          { "id": "d", "text": "esst" }
+        ],
+        "correct_answer": "c"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "category": "Fragewörter – Wer, Was, Wo, Wie, Wann",
+    "question_number": "20",
+    "questions": [
+      {
+        "id": "1",
+        "question": "____ bist du?",
+        "options": [
+          { "id": "a", "text": "Wer" },
+          { "id": "b", "text": "Wo" },
+          { "id": "c", "text": "Wie" },
+          { "id": "d", "text": "Was" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "2",
+        "question": "____ machst du?",
+        "options": [
+          { "id": "a", "text": "Wer" },
+          { "id": "b", "text": "Was" },
+          { "id": "c", "text": "Wo" },
+          { "id": "d", "text": "Wann" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "3",
+        "question": "____ wohnst du?",
+        "options": [
+          { "id": "a", "text": "Wie" },
+          { "id": "b", "text": "Wo" },
+          { "id": "c", "text": "Was" },
+          { "id": "d", "text": "Wann" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "4",
+        "question": "____ geht es dir?",
+        "options": [
+          { "id": "a", "text": "Wie" },
+          { "id": "b", "text": "Was" },
+          { "id": "c", "text": "Wer" },
+          { "id": "d", "text": "Wo" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "5",
+        "question": "____ kommst du nach Hause?",
+        "options": [
+          { "id": "a", "text": "Was" },
+          { "id": "b", "text": "Wo" },
+          { "id": "c", "text": "Wann" },
+          { "id": "d", "text": "Wer" }
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": "6",
+        "question": "____ ist dein Lehrer?",
+        "options": [
+          { "id": "a", "text": "Wo" },
+          { "id": "b", "text": "Was" },
+          { "id": "c", "text": "Wer" },
+          { "id": "d", "text": "Wann" }
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": "7",
+        "question": "____ lernst du Deutsch?",
+        "options": [
+          { "id": "a", "text": "Wo" },
+          { "id": "b", "text": "Wann" },
+          { "id": "c", "text": "Wie" },
+          { "id": "d", "text": "Wer" }
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": "8",
+        "question": "____ ist das?",
+        "options": [
+          { "id": "a", "text": "Wer" },
+          { "id": "b", "text": "Was" },
+          { "id": "c", "text": "Wie" },
+          { "id": "d", "text": "Wann" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "9",
+        "question": "____ bist du heute so müde?",
+        "options": [
+          { "id": "a", "text": "Wann" },
+          { "id": "b", "text": "Wo" },
+          { "id": "c", "text": "Wer" },
+          { "id": "d", "text": "Warum" }
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": "10",
+        "question": "____ kommt morgen?",
+        "options": [
+          { "id": "a", "text": "Wer" },
+          { "id": "b", "text": "Was" },
+          { "id": "c", "text": "Wo" },
+          { "id": "d", "text": "Wie" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "11",
+        "question": "____ ist dein Lieblingsessen?",
+        "options": [
+          { "id": "a", "text": "Wer" },
+          { "id": "b", "text": "Wie" },
+          { "id": "c", "text": "Was" },
+          { "id": "d", "text": "Wo" }
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": "12",
+        "question": "____ arbeitest du?",
+        "options": [
+          { "id": "a", "text": "Wie" },
+          { "id": "b", "text": "Was" },
+          { "id": "c", "text": "Wann" },
+          { "id": "d", "text": "Wo" }
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": "13",
+        "question": "____ alt bist du?",
+        "options": [
+          { "id": "a", "text": "Wie" },
+          { "id": "b", "text": "Was" },
+          { "id": "c", "text": "Wer" },
+          { "id": "d", "text": "Wann" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "14",
+        "question": "____ Uhr ist es?",
+        "options": [
+          { "id": "a", "text": "Wer" },
+          { "id": "b", "text": "Wann" },
+          { "id": "c", "text": "Wie" },
+          { "id": "d", "text": "Was" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "15",
+        "question": "____ ist im Zimmer?",
+        "options": [
+          { "id": "a", "text": "Was" },
+          { "id": "b", "text": "Wer" },
+          { "id": "c", "text": "Wo" },
+          { "id": "d", "text": "Wie" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "16",
+        "question": "____ ist deine Lieblingsfarbe?",
+        "options": [
+          { "id": "a", "text": "Wer" },
+          { "id": "b", "text": "Was" },
+          { "id": "c", "text": "Wo" },
+          { "id": "d", "text": "Wie" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "17",
+        "question": "____ ist dein Freund?",
+        "options": [
+          { "id": "a", "text": "Wer" },
+          { "id": "b", "text": "Was" },
+          { "id": "c", "text": "Wie" },
+          { "id": "d", "text": "Wo" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "18",
+        "question": "____ oft lernst du Deutsch?",
+        "options": [
+          { "id": "a", "text": "Wann" },
+          { "id": "b", "text": "Wie" },
+          { "id": "c", "text": "Wo" },
+          { "id": "d", "text": "Wer" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "19",
+        "question": "____ ist das Mädchen?",
+        "options": [
+          { "id": "a", "text": "Wer" },
+          { "id": "b", "text": "Was" },
+          { "id": "c", "text": "Wie" },
+          { "id": "d", "text": "Wo" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "20",
+        "question": "____ kommt heute nicht?",
+        "options": [
+          { "id": "a", "text": "Wo" },
+          { "id": "b", "text": "Wer" },
+          { "id": "c", "text": "Wann" },
+          { "id": "d", "text": "Was" }
+        ],
+        "correct_answer": "b"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "category": "Negation – nicht / kein",
+    "question_number": "10",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Das ist ____ mein Auto.",
+        "options": [
+          { "id": "a", "text": "nicht" },
+          { "id": "b", "text": "kein" },
+          { "id": "c", "text": "nein" },
+          { "id": "d", "text": "nichts" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "2",
+        "question": "Ich habe ____ Geld.",
+        "options": [
+          { "id": "a", "text": "nicht" },
+          { "id": "b", "text": "kein" },
+          { "id": "c", "text": "nein" },
+          { "id": "d", "text": "nichts" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "3",
+        "question": "Das stimmt ____.",
+        "options": [
+          { "id": "a", "text": "kein" },
+          { "id": "b", "text": "nicht" },
+          { "id": "c", "text": "nein" },
+          { "id": "d", "text": "keine" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "4",
+        "question": "Er hat ____ Auto.",
+        "options": [
+          { "id": "a", "text": "nicht" },
+          { "id": "b", "text": "kein" },
+          { "id": "c", "text": "nein" },
+          { "id": "d", "text": "nicht Auto" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "5",
+        "question": "Ich komme heute ____.",
+        "options": [
+          { "id": "a", "text": "kein" },
+          { "id": "b", "text": "nicht" },
+          { "id": "c", "text": "keine" },
+          { "id": "d", "text": "nichts" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "6",
+        "question": "Wir haben ____ Zeit.",
+        "options": [
+          { "id": "a", "text": "kein" },
+          { "id": "b", "text": "nicht" },
+          { "id": "c", "text": "nein" },
+          { "id": "d", "text": "nichts" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "7",
+        "question": "Das ist ____ richtig.",
+        "options": [
+          { "id": "a", "text": "kein" },
+          { "id": "b", "text": "nicht" },
+          { "id": "c", "text": "keine" },
+          { "id": "d", "text": "nichts" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "8",
+        "question": "Sie haben ____ Kinder.",
+        "options": [
+          { "id": "a", "text": "nicht" },
+          { "id": "b", "text": "kein" },
+          { "id": "c", "text": "keine" },
+          { "id": "d", "text": "nicht Kinder" }
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": "9",
+        "question": "Das ist ____ interessant.",
+        "options": [
+          { "id": "a", "text": "kein" },
+          { "id": "b", "text": "nicht" },
+          { "id": "c", "text": "keine" },
+          { "id": "d", "text": "nein" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "10",
+        "question": "Ich habe ____ Problem.",
+        "options": [
+          { "id": "a", "text": "kein" },
+          { "id": "b", "text": "nicht" },
+          { "id": "c", "text": "keine" },
+          { "id": "d", "text": "nichts" }
+        ],
+        "correct_answer": "a"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "category": "Personalpronomen – ich, du, er, sie, es, wir, ihr, sie",
+    "question_number": "15",
+    "questions": [
+      {
+        "id": "1",
+        "question": "____ heiße Anna.",
+        "options": [
+          { "id": "a", "text": "Ich" },
+          { "id": "b", "text": "Du" },
+          { "id": "c", "text": "Er" },
+          { "id": "d", "text": "Sie" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "2",
+        "question": "____ bist mein Freund.",
+        "options": [
+          { "id": "a", "text": "Ich" },
+          { "id": "b", "text": "Du" },
+          { "id": "c", "text": "Er" },
+          { "id": "d", "text": "Wir" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "3",
+        "question": "Das ist Peter. ____ ist 20 Jahre alt.",
+        "options": [
+          { "id": "a", "text": "Ich" },
+          { "id": "b", "text": "Du" },
+          { "id": "c", "text": "Er" },
+          { "id": "d", "text": "Es" }
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": "4",
+        "question": "Das ist Maria. ____ kommt aus Spanien.",
+        "options": [
+          { "id": "a", "text": "Sie" },
+          { "id": "b", "text": "Es" },
+          { "id": "c", "text": "Du" },
+          { "id": "d", "text": "Wir" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "5",
+        "question": "Das ist ein Kind. ____ spielt im Garten.",
+        "options": [
+          { "id": "a", "text": "Er" },
+          { "id": "b", "text": "Sie" },
+          { "id": "c", "text": "Es" },
+          { "id": "d", "text": "Wir" }
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": "6",
+        "question": "Mein Freund und ich. ____ gehen ins Kino.",
+        "options": [
+          { "id": "a", "text": "Ihr" },
+          { "id": "b", "text": "Wir" },
+          { "id": "c", "text": "Sie" },
+          { "id": "d", "text": "Du" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "7",
+        "question": "Ihr seid Schüler. ____ lernt Deutsch.",
+        "options": [
+          { "id": "a", "text": "Ihr" },
+          { "id": "b", "text": "Wir" },
+          { "id": "c", "text": "Er" },
+          { "id": "d", "text": "Ich" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "8",
+        "question": "Herr und Frau Müller sind hier. ____ kommen aus Berlin.",
+        "options": [
+          { "id": "a", "text": "Er" },
+          { "id": "b", "text": "Sie" },
+          { "id": "c", "text": "Ihr" },
+          { "id": "d", "text": "Es" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "9",
+        "question": "Das ist mein Vater. ____ arbeitet viel.",
+        "options": [
+          { "id": "a", "text": "Ich" },
+          { "id": "b", "text": "Er" },
+          { "id": "c", "text": "Sie" },
+          { "id": "d", "text": "Wir" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "10",
+        "question": "Das ist meine Mutter. ____ kocht gern.",
+        "options": [
+          { "id": "a", "text": "Sie" },
+          { "id": "b", "text": "Er" },
+          { "id": "c", "text": "Es" },
+          { "id": "d", "text": "Ihr" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "11",
+        "question": "Das ist mein Hund. ____ ist schwarz.",
+        "options": [
+          { "id": "a", "text": "Sie" },
+          { "id": "b", "text": "Es" },
+          { "id": "c", "text": "Er" },
+          { "id": "d", "text": "Du" }
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": "12",
+        "question": "Mein Auto ist alt. ____ fährt nicht schnell.",
+        "options": [
+          { "id": "a", "text": "Es" },
+          { "id": "b", "text": "Er" },
+          { "id": "c", "text": "Sie" },
+          { "id": "d", "text": "Wir" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "13",
+        "question": "Anna und ich sind Freunde. ____ spielen zusammen.",
+        "options": [
+          { "id": "a", "text": "Sie" },
+          { "id": "b", "text": "Ihr" },
+          { "id": "c", "text": "Wir" },
+          { "id": "d", "text": "Er" }
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": "14",
+        "question": "Kinder, ____ seid laut!",
+        "options": [
+          { "id": "a", "text": "Wir" },
+          { "id": "b", "text": "Sie" },
+          { "id": "c", "text": "Ihr" },
+          { "id": "d", "text": "Es" }
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": "15",
+        "question": "Das sind meine Eltern. ____ wohnen in Wien.",
+        "options": [
+          { "id": "a", "text": "Sie" },
+          { "id": "b", "text": "Wir" },
+          { "id": "c", "text": "Ihr" },
+          { "id": "d", "text": "Es" }
+        ],
+        "correct_answer": "a"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "category": "SVO – Einfache Sätze",
+    "question_number": "10",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Wähle den richtigen Satz:",
+        "options": [
+          { "id": "a", "text": "Kommt ich aus Deutschland." },
+          { "id": "b", "text": "Ich komme aus Deutschland." },
+          { "id": "c", "text": "Ich aus Deutschland komme." },
+          { "id": "d", "text": "Deutschland komme ich." }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "2",
+        "question": "Wähle den richtigen Satz:",
+        "options": [
+          { "id": "a", "text": "Du lernst Deutsch." },
+          { "id": "b", "text": "Lernst Deutsch du." },
+          { "id": "c", "text": "Deutsch lernst du." },
+          { "id": "d", "text": "Deutsch du lernst." }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "3",
+        "question": "Wähle den richtigen Satz:",
+        "options": [
+          { "id": "a", "text": "Er spielt Fußball." },
+          { "id": "b", "text": "Spielt er Fußball." },
+          { "id": "c", "text": "Fußball spielt er." },
+          { "id": "d", "text": "Fußball er spielt." }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "4",
+        "question": "Wähle den richtigen Satz:",
+        "options": [
+          { "id": "a", "text": "Wir trinken Wasser." },
+          { "id": "b", "text": "Trinken wir Wasser." },
+          { "id": "c", "text": "Wasser trinken wir." },
+          { "id": "d", "text": "Wasser wir trinken." }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "5",
+        "question": "Wähle den richtigen Satz:",
+        "options": [
+          { "id": "a", "text": "Sie liest ein Buch." },
+          { "id": "b", "text": "Liest sie ein Buch." },
+          { "id": "c", "text": "Ein Buch liest sie." },
+          { "id": "d", "text": "Ein Buch sie liest." }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "6",
+        "question": "Wähle den richtigen Satz:",
+        "options": [
+          { "id": "a", "text": "Ihr macht die Hausaufgaben." },
+          { "id": "b", "text": "Macht ihr die Hausaufgaben." },
+          { "id": "c", "text": "Die Hausaufgaben macht ihr." },
+          { "id": "d", "text": "Die Hausaufgaben ihr macht." }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "7",
+        "question": "Wähle den richtigen Satz:",
+        "options": [
+          { "id": "a", "text": "Ich esse einen Apfel." },
+          { "id": "b", "text": "Esse ich einen Apfel." },
+          { "id": "c", "text": "Einen Apfel esse ich." },
+          { "id": "d", "text": "Einen Apfel ich esse." }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "8",
+        "question": "Wähle den richtigen Satz:",
+        "options": [
+          { "id": "a", "text": "Sie fahren nach Berlin." },
+          { "id": "b", "text": "Fahren sie nach Berlin." },
+          { "id": "c", "text": "Nach Berlin sie fahren." },
+          { "id": "d", "text": "Nach Berlin fahren sie." }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "9",
+        "question": "Wähle den richtigen Satz:",
+        "options": [
+          { "id": "a", "text": "Das Kind spielt im Garten." },
+          { "id": "b", "text": "Spielt das Kind im Garten." },
+          { "id": "c", "text": "Im Garten spielt das Kind." },
+          { "id": "d", "text": "Im Garten das Kind spielt." }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "10",
+        "question": "Wähle den richtigen Satz:",
+        "options": [
+          { "id": "a", "text": "Wir lernen Deutsch." },
+          { "id": "b", "text": "Lernen wir Deutsch." },
+          { "id": "c", "text": "Deutsch lernen wir." },
+          { "id": "d", "text": "Deutsch wir lernen." }
+        ],
+        "correct_answer": "a"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "category": "Modalverben – können, möchten",
+    "question_number": "10",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Ich ____ einen Kaffee.",
+        "options": [
+          { "id": "a", "text": "möchte" },
+          { "id": "b", "text": "kann" },
+          { "id": "c", "text": "mögen" },
+          { "id": "d", "text": "können" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "2",
+        "question": "Du ____ sehr gut schwimmen.",
+        "options": [
+          { "id": "a", "text": "möchtest" },
+          { "id": "b", "text": "kannst" },
+          { "id": "c", "text": "mögen" },
+          { "id": "d", "text": "könnt" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "3",
+        "question": "Er ____ heute nicht kommen.",
+        "options": [
+          { "id": "a", "text": "möchte" },
+          { "id": "b", "text": "kann" },
+          { "id": "c", "text": "möchten" },
+          { "id": "d", "text": "können" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "4",
+        "question": "Wir ____ Pizza essen.",
+        "options": [
+          { "id": "a", "text": "möchten" },
+          { "id": "b", "text": "mögt" },
+          { "id": "c", "text": "möchte" },
+          { "id": "d", "text": "mögen" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "5",
+        "question": "Ihr ____ gut tanzen.",
+        "options": [
+          { "id": "a", "text": "möchte" },
+          { "id": "b", "text": "möchtet" },
+          { "id": "c", "text": "könnt" },
+          { "id": "d", "text": "kann" }
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": "6",
+        "question": "Sie (Pl.) ____ nach Berlin fahren.",
+        "options": [
+          { "id": "a", "text": "möchte" },
+          { "id": "b", "text": "möchten" },
+          { "id": "c", "text": "mögt" },
+          { "id": "d", "text": "mögen" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "7",
+        "question": "Ich ____ gut singen.",
+        "options": [
+          { "id": "a", "text": "möchte" },
+          { "id": "b", "text": "kann" },
+          { "id": "c", "text": "mögen" },
+          { "id": "d", "text": "können" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "8",
+        "question": "Du ____ eine Suppe essen.",
+        "options": [
+          { "id": "a", "text": "möchtest" },
+          { "id": "b", "text": "kannst" },
+          { "id": "c", "text": "mögen" },
+          { "id": "d", "text": "könnt" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "9",
+        "question": "Wir ____ heute nicht spielen.",
+        "options": [
+          { "id": "a", "text": "möchtet" },
+          { "id": "b", "text": "können" },
+          { "id": "c", "text": "möchten" },
+          { "id": "d", "text": "könnt" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "10",
+        "question": "Sie (Sing.) ____ jetzt schlafen.",
+        "options": [
+          { "id": "a", "text": "möchte" },
+          { "id": "b", "text": "kann" },
+          { "id": "c", "text": "möchten" },
+          { "id": "d", "text": "können" }
+        ],
+        "correct_answer": "a"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "category": "Präpositionen – in, an, auf, neben",
+    "question_number": "10",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Das Buch liegt ____ dem Tisch.",
+        "options": [
+          { "id": "a", "text": "in" },
+          { "id": "b", "text": "auf" },
+          { "id": "c", "text": "an" },
+          { "id": "d", "text": "neben" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "2",
+        "question": "Die Lampe hängt ____ der Decke.",
+        "options": [
+          { "id": "a", "text": "in" },
+          { "id": "b", "text": "auf" },
+          { "id": "c", "text": "an" },
+          { "id": "d", "text": "neben" }
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": "3",
+        "question": "Die Kinder spielen ____ dem Garten.",
+        "options": [
+          { "id": "a", "text": "in" },
+          { "id": "b", "text": "auf" },
+          { "id": "c", "text": "an" },
+          { "id": "d", "text": "neben" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "4",
+        "question": "Der Stuhl steht ____ dem Tisch.",
+        "options": [
+          { "id": "a", "text": "auf" },
+          { "id": "b", "text": "an" },
+          { "id": "c", "text": "neben" },
+          { "id": "d", "text": "in" }
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": "5",
+        "question": "Das Bild hängt ____ der Wand.",
+        "options": [
+          { "id": "a", "text": "an" },
+          { "id": "b", "text": "auf" },
+          { "id": "c", "text": "in" },
+          { "id": "d", "text": "neben" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "6",
+        "question": "Der Computer steht ____ dem Tisch.",
+        "options": [
+          { "id": "a", "text": "an" },
+          { "id": "b", "text": "auf" },
+          { "id": "c", "text": "neben" },
+          { "id": "d", "text": "in" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "7",
+        "question": "Die Jacke hängt ____ der Tür.",
+        "options": [
+          { "id": "a", "text": "auf" },
+          { "id": "b", "text": "an" },
+          { "id": "c", "text": "neben" },
+          { "id": "d", "text": "in" }
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": "8",
+        "question": "Die Katze liegt ____ dem Sofa.",
+        "options": [
+          { "id": "a", "text": "auf" },
+          { "id": "b", "text": "an" },
+          { "id": "c", "text": "neben" },
+          { "id": "d", "text": "in" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "9",
+        "question": "Der Kühlschrank steht ____ der Küche.",
+        "options": [
+          { "id": "a", "text": "in" },
+          { "id": "b", "text": "auf" },
+          { "id": "c", "text": "an" },
+          { "id": "d", "text": "neben" }
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": "10",
+        "question": "Der Hund schläft ____ dem Bett.",
+        "options": [
+          { "id": "a", "text": "an" },
+          { "id": "b", "text": "auf" },
+          { "id": "c", "text": "neben" },
+          { "id": "d", "text": "in" }
+        ],
+        "correct_answer": "c"
+      }
+    ]
+  }
+  
+]
