@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:german_quiz_app/simple_provider.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 class Main extends ConsumerStatefulWidget {
   const Main({super.key});
@@ -11,9 +12,9 @@ class Main extends ConsumerStatefulWidget {
 
 class _MainState extends ConsumerState<Main> {
   final images = [
-    "assets/images/bg1.webp",
-    "assets/images/bg2.webp",
-    "assets/images/bg3.jpg",
+    "assets/images/panel1.webp",
+    "assets/images/panel2.webp",
+    "assets/images/panel3.jpg",
   ];
 
   int _index = 0;
@@ -108,20 +109,112 @@ class _MainState extends ConsumerState<Main> {
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
-              SizedBox(
-                child: ElevatedButton(onPressed: (){}, child: Padding(
-                  padding: const EdgeInsets.all(10.0),
-                  child: Text("Learn German", style: TextStyle(fontFamily: 'RobotoSlab', fontWeight: FontWeight.bold, fontSize: width*0.04),)
+              ElevatedButton(
+              onPressed: () async {
+                final Uri url = Uri.parse("https://langoracademy.com/");
+
+                try {
+                  // 1) Dış tarayıcıyı dene
+                  final opened = await launchUrl(
+                    url,
+                    mode: LaunchMode.externalApplication,
+                  );
+
+                  if (!opened) {
+                    // 2) Olmazsa uygulama içi webview dene
+                    final inApp = await launchUrl(
+                      url,
+                      mode: LaunchMode.inAppWebView,
+                      webViewConfiguration: const WebViewConfiguration(
+                        enableJavaScript: true,
+                      ),
+                    );
+
+                    if (!inApp) {
+                      if (context.mounted) {
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          const SnackBar(content: Text("Bağlantı açılamadı.")),
+                        );
+                      }
+                    }
+                  }
+                  } catch (e) {
+                    if (context.mounted) {
+                      ScaffoldMessenger.of(context).showSnackBar(
+                        SnackBar(content: Text("Hata: $e")),
+                      );
+                    }
+                  }
+                },
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: Colors.green,
+                  foregroundColor: Colors.white,
                 ),
-                style: ElevatedButton.styleFrom(backgroundColor: Colors.green, foregroundColor: Colors.white),)
-              ),
-              SizedBox(
-                child: ElevatedButton(onPressed: (){}, child: Padding(
+                child: Padding(
                   padding: const EdgeInsets.all(10.0),
-                  child: Text("Download Books", style: TextStyle(fontFamily: 'RobotoSlab', fontWeight: FontWeight.bold, fontSize: width*0.037),)
+                  child: Text(
+                    "Learn German",
+                    style: TextStyle(
+                      fontFamily: 'RobotoSlab',
+                      fontWeight: FontWeight.bold,
+                      fontSize: MediaQuery.of(context).size.width * 0.04,
+                    ),
+                  ),
                 ),
-                style: ElevatedButton.styleFrom(backgroundColor: Colors.blue, foregroundColor: Colors.white),)
               ),
+              ElevatedButton(
+              onPressed: () async {
+                final Uri url = Uri.parse("https://langoracademy.com/");
+
+                try {
+                  // 1) Dış tarayıcıyı dene
+                  final opened = await launchUrl(
+                    url,
+                    mode: LaunchMode.externalApplication,
+                  );
+
+                  if (!opened) {
+                    // 2) Olmazsa uygulama içi webview dene
+                    final inApp = await launchUrl(
+                      url,
+                      mode: LaunchMode.inAppWebView,
+                      webViewConfiguration: const WebViewConfiguration(
+                        enableJavaScript: true,
+                      ),
+                    );
+
+                    if (!inApp) {
+                      if (context.mounted) {
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          const SnackBar(content: Text("Bağlantı açılamadı.")),
+                        );
+                      }
+                    }
+                  }
+                } catch (e) {
+                  if (context.mounted) {
+                    ScaffoldMessenger.of(context).showSnackBar(
+                      SnackBar(content: Text("Hata: $e")),
+                    );
+                  }
+                }
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: Colors.blue,
+                foregroundColor: Colors.white,
+              ),
+              child: Padding(
+                padding: const EdgeInsets.all(10.0),
+                child: Text(
+                  "Download Books",
+                  style: TextStyle(
+                    fontFamily: 'RobotoSlab',
+                    fontWeight: FontWeight.bold,
+                    fontSize: MediaQuery.of(context).size.width * 0.04,
+                  ),
+                ),
+              ),
+            )
             ],
           ),
           SizedBox(height: 10,),
