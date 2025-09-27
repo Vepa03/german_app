@@ -11,11 +11,9 @@ class Main extends ConsumerStatefulWidget {
 
 class _MainState extends ConsumerState<Main> {
   final images = [
-    "assets/images/bg2.jpg",
+    "assets/images/bg1.webp",
+    "assets/images/bg2.webp",
     "assets/images/bg3.jpg",
-    "assets/images/bg2.jpg",
-    "assets/images/bg2.jpg",
-    "assets/images/bg2.jpg"
   ];
 
   int _index = 0;
@@ -48,6 +46,7 @@ class _MainState extends ConsumerState<Main> {
 
   @override
   Widget build(BuildContext context) {
+    var width = MediaQuery.of(context).size.width;
     final scoreShow = ref.watch(trueProvider);
     return Scaffold(
       body: ListView(
@@ -90,29 +89,78 @@ class _MainState extends ConsumerState<Main> {
               ],
             ),),
           ),
+          Padding(
+            padding: const EdgeInsets.all(20.0),
+            child: Container(
+              child: Padding(
+                padding: const EdgeInsets.all(10.0),
+                child: Text("200 questions", style: TextStyle( fontFamily: 'RobotoSlab', fontSize: width*0.045, color: Colors.deepPurple),textAlign: TextAlign.center),
+              ),
+              decoration: BoxDecoration(
+                border: Border.all(
+                  color: Colors.deepPurple
+                ),
+                borderRadius: BorderRadius.circular(10)
+              ),
+            ),
+          ),
+          Row(
+            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              SizedBox(
+                child: ElevatedButton(onPressed: (){}, child: Padding(
+                  padding: const EdgeInsets.all(10.0),
+                  child: Text("Learn German", style: TextStyle(fontFamily: 'RobotoSlab', fontWeight: FontWeight.bold, fontSize: width*0.04),)
+                ),
+                style: ElevatedButton.styleFrom(backgroundColor: Colors.green, foregroundColor: Colors.white),)
+              ),
+              SizedBox(
+                child: ElevatedButton(onPressed: (){}, child: Padding(
+                  padding: const EdgeInsets.all(10.0),
+                  child: Text("Download Books", style: TextStyle(fontFamily: 'RobotoSlab', fontWeight: FontWeight.bold, fontSize: width*0.037),)
+                ),
+                style: ElevatedButton.styleFrom(backgroundColor: Colors.blue, foregroundColor: Colors.white),)
+              ),
+            ],
+          ),
+          SizedBox(height: 10,),
+          Padding(
+            padding: const EdgeInsets.all(10.0),
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.start,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text("🟢 Multiple categories (Vocabulary, Grammar, etc.)"),
+                Text("🟢 Score tracking with statistics)"),
+                Text("🟢 Works offline"),
+              ],
+            ),
+          ),
+          SizedBox(height: 10,),
           ConstrainedBox(constraints: BoxConstraints(maxWidth: 720),
           child: const FAQSection(
               title: 'Frequently Asked Questions',
               items: [
                 FAQItem(
-                  question: 'Where and how are the lessons held?',
+                  question: 'Who is this app for?',
                   answer:
-                      'Lessons are held online via Zoom/Google Meet. After registration, you will receive a link and your weekly schedule.',
+                      'It’s designed for anyone learning German for beginners (A1)',
                 ),
                 FAQItem(
-                  question: 'What should I do to register?',
+                  question: 'Do I need an internet connection?',
                   answer:
-                      'Fill out the registration form and our team will contact you within the same day to confirm your level and schedule.',
+                      'Not really 🙂 Most quizzes work offline. Internet is only required for updates.',
                 ),
                 FAQItem(
-                  question: 'Is there a trial lesson?',
+                  question: 'How often are new quizzes added?',
                   answer:
-                      'Yes. You can take one free trial lesson to see the format and ask questions before you decide.',
+                      'We plan to update the app regularly with new questions and categories.',
                 ),
                 FAQItem(
-                  question: 'Which levels do you offer courses for?',
+                  question: 'Is the app free?',
                   answer:
-                      'We currently offer A1–C1 levels. Groups are formed by level to keep progress consistent.',
+                      'Yes! The app is completely free right now. Premium features may be added later.'
                 ),
               ],
             ),
