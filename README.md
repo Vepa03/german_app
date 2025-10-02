@@ -1,7 +1,7 @@
-# 🍲 Tasty Recipes App
 
-**Tasty Recipes** is a Flutter-based mobile application designed for food lovers.  
-It helps users discover, save, and manage delicious recipes with a clean and modern UI.  
+🇩🇪 German Quiz App
+
+A Flutter application for learning and practicing German through interactive quizzes, progress tracking, and a modern UI.
 
 
 |  Page |  Page |
@@ -12,33 +12,81 @@ It helps users discover, save, and manage delicious recipes with a clean and mod
 |------------|-----------|
 | <img src="https://github.com/user-attachments/assets/efcfbed7-b294-4719-9f9d-bf8fc0e52727"   width="300"> | <img src="https://github.com/user-attachments/assets/9d90f746-d586-42aa-b191-aff85d0cb3e5"  width="300"> |
 
----
 
-## 🚀 Features
+📌 Project Info
 
-- 📖 Browse and save recipes  
-- 🍽️ Organized recipe categories  
-- 🎬 Smooth animations with **Lottie**  
-- 🖼️ Custom icons using **icons_launcher**  
-- 🌐 Open external recipe links with **url_launcher**  
-- ⚡ State management with **Provider**  
-- 📱 Available for both **Android** and **iOS**
+Name: german_quiz_app
 
----
+Version: 1.0.0+1
 
-## 🛠️ Technologies Used
+Description: A new Flutter project for German quizzes and language practice.
 
-- [Flutter](https://flutter.dev/)  
-- [Provider](https://pub.dev/packages/provider)  
-- [Lottie](https://pub.dev/packages/lottie)  
-- [URL Launcher](https://pub.dev/packages/url_launcher)  
-- [Icons Launcher](https://pub.dev/packages/icons_launcher)  
+SDK: Dart ^3.8.1
 
----
+⚙️ Dependencies
 
-## 📦 Installation
+This project uses the following packages:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/tasty_recipes.git
-   cd tasty_recipes
+flutter_riverpod
+ – State management
+
+riverpod
+ – Core Riverpod package
+
+shared_preferences
+ – Local storage
+
+fl_chart
+ – Charts & statistics
+
+font_awesome_flutter
+ – Icons
+
+http
+ – Networking
+
+google_fonts
+ – Custom fonts
+
+url_launcher
+ – Open external links
+
+🎨 Assets & Fonts
+Assets
+assets/images/  
+assets/data/  
+assets/fonts/  
+
+Custom Fonts
+
+AlanSans
+
+NotoSans
+
+RobotoSlab
+
+🚀 Getting Started
+
+Clone the repository:
+
+git clone https://github.com/your-username/german_quiz_app.git
+cd german_quiz_app
+
+
+Install dependencies:
+
+flutter pub get
+
+
+Run the app:
+
+flutter run
+
+🧪 Development
+
+For testing and linting:
+
+flutter test
+
+
+The project uses flutter_lints for clean code practices.
